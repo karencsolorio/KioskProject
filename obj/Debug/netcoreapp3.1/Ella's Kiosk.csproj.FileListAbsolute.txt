@@ -1,0 +1,13 @@
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\bin\Debug\netcoreapp3.1\Ella's Kiosk.exe
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\bin\Debug\netcoreapp3.1\Ella's Kiosk.deps.json
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\bin\Debug\netcoreapp3.1\Ella's Kiosk.runtimeconfig.json
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\bin\Debug\netcoreapp3.1\Ella's Kiosk.runtimeconfig.dev.json
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\bin\Debug\netcoreapp3.1\Ella's Kiosk.dll
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\bin\Debug\netcoreapp3.1\Ella's Kiosk.pdb
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\obj\Debug\netcoreapp3.1\Ella's Kiosk.csprojAssemblyReference.cache
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\obj\Debug\netcoreapp3.1\Ella's Kiosk.AssemblyInfoInputs.cache
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\obj\Debug\netcoreapp3.1\Ella's Kiosk.AssemblyInfo.cs
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\obj\Debug\netcoreapp3.1\Ella's Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\obj\Debug\netcoreapp3.1\Ella's Kiosk.dll
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\obj\Debug\netcoreapp3.1\Ella's Kiosk.pdb
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Kiosk Project\Ella's Kiosk\Ella's Kiosk\obj\Debug\netcoreapp3.1\Ella's Kiosk.genruntimeconfig.cache
